@@ -1,15 +1,14 @@
 .pie-de-pagina {
     background: #bfbfbf;
-    color: #fdfdfd;
-    text-align: right;
     padding: 1.5625rem 5rem;
-    text-transform: lowercase;
     align-items: center;
     text-align: center;
 }
 
 .nombre{
   text-decoration-line: none;
+  font-weight: bold;
+  color: #171616;
 }
 
 .nombre:hover{
@@ -17,6 +16,6 @@
 }
 
 .logo-footer{
-  height: 3%;
-  width: 3%;
+  height: 40px;
+  width: 40px;
 }   
